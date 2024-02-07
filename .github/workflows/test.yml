@@ -25,9 +25,9 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: q215613905
-            repoName: TVBoxOS
-            branchName: main
+          - userName: jellyfin
+            repoName: jellyfin-androidtv
+            branchName: master
           - userName: takagen99
             repoName: Box
             branchName: main
